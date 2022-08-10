@@ -3,7 +3,10 @@
 Support 3D Models in Rhino 5 and 6 - Script
 
 
-1-Rhino Option Menu         2-Rhino Script               3-Add Parsa3d.rvb file to startup            4-Click OK
+1-Rhino Option Menu      
+
+
+2-Rhino Script               3-Add Parsa3d.rvb file to startup            4-Click OK
 
 
 
