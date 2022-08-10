@@ -1,4 +1,4 @@
-# Support-3D-Models-in-Rhino
+# Support-Generation-3D-Models-in-Rhino
 Support 3D Models in Rhino 5 and 6 - Script
 1-Rhino Option Menu 
 2-Rhino Script 
